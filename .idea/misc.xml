@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/TP3DTO/pom.xml" />
+        <option value="$PROJECT_DIR$/TP5ProgFuncional/pom.xml" />
+        <option value="$PROJECT_DIR$/JPAAvanzada/pom.xml" />
       </list>
     </option>
   </component>
